@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/elias alonso zuñiga orozco](https://www.linkedin.com/in/elias-alonso-zuñiga-orozco-41a55832b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elias alonso zuñiga orozco" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/elias-alonso-zuñiga-orozco-41a55832b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elias alonso zuñiga orozco" height="30" width="40" /></a>
 <a href="https://instagram.com/elias_a_zuniga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elias_a_zuniga" height="30" width="40" /></a>
 </p>
 
